@@ -37,7 +37,7 @@ body{
  }
 
  .navbar{
-     width: 500px                               ;
+     width: 500px  ;
      list-style: none;
      align-items: center;
      justify-content: space-between;
@@ -53,7 +53,7 @@ p{
 
 .banner{
     height: 500px;
-    background-image: url("Aula_HTML_CSS-main/imgs/bg-jelly-fish-para-home.png");
+    background-image: url("../projeto-iot-revolucionario-julia/imgs/bg-jelly-fish-para_outras_pags.png");
     background-size: cover;
 }
 
