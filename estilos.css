@@ -11,7 +11,7 @@ body{
  .header{
     height: 100px;
      width: 100%;
-     border-bottom: 3px #32b9cd solid;
+     border-bottom: 5px #32b9cd solid;
     
  }
  .titulo{
@@ -52,22 +52,22 @@ p{
 /*Começo do banner*/
 
 .banner{
-    height: 500px;
-    background-image: url("../projeto-iot-revolucionario-julia/imgs/bg-jelly-fish-para_outras_pags.png");
+    height: 900px;
+    background-image: url("../projeto-iot-revolucionario-julia/imgs/bg-jelly-fish-para-home.png");
     background-size: cover;
 }
 
 .banner .card {
     background-color:rgb(163, 186, 206);
   text-align: center;
-    height: 450px;
-    width: 400px;
+    height: 650px;
+    width: 450px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 30px;
     border-radius: 9px;
 }
 
@@ -86,7 +86,7 @@ p{
 }
 
 input{
-    height: 30px;
+    height: 40px;
     border: 2px solid #e75459;
     border-radius: 8px;
 
